@@ -24,7 +24,12 @@
     "type": "git",
     "url": "git+https://github.com/Jiyeon31/technoteblog.git"
   },
-  "keywords": [],
+  "keywords": [
+    "heroku",
+    "node.js",
+    "express",
+    "mysql"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -34,5 +39,5 @@
   "engines": {
     "node": "v16.14.1"
   },
-  "build":"webpack"
+  "build": "webpack"
 }
